@@ -1,0 +1,36 @@
+#card
+{
+   margin: 20px 0px 0px 400px;
+   width: 625px;
+}
+#card div
+{
+   float: left;
+   width: 105px;
+   height: 105px;
+   background: #5cacee;
+   margin: 5px;
+   border: 1px solid #999;
+   cursor: pointer;
+   -webkit-border-radius: .5em;
+   -moz-border-radius: .5em;
+}
+#card div img{
+  display: none; border: none;
+}
+.header-table-container{
+  padding-left:400px;
+  margin-top: 25px;
+}
+.header-title{
+  padding-left: 530px;
+  margin-top: 30px;
+  font-size: 27px;
+  font-weight: bold;
+  color: green;
+}
+.header-table tr td{
+  padding-left: 140px;
+  text-align: center;
+  padding-left: 10px;
+}
